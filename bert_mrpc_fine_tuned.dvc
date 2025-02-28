@@ -1,0 +1,6 @@
+outs:
+- md5: 5d5f093f9a338ebd34503f35f1523565.dir
+  size: 438909027
+  nfiles: 7
+  hash: md5
+  path: bert_mrpc_fine_tuned
